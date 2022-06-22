@@ -22,6 +22,7 @@ export const StyledTech = styled.div`
 
   div {
     display: flex;
+    align-items: center;
     p {
       margin: 0 15px;
     }
